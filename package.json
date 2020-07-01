@@ -23,7 +23,7 @@
     "formidable": "^1.2.1",
     "jsonwebtoken": "^8.4.0",
     "mongodb": "^3.1.13",
-    "mongoose": "^5.4.17",
+    "mongoose": "^5.7.5",
     "notp": "^2.0.3",
     "password-hash-and-salt": "^0.1.4",
     "ts-node-dev": "^1.0.0-pre.32",
