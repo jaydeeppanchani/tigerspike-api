@@ -21,7 +21,7 @@
     "dotenv": "^6.1.0",
     "express": "^4.16.4",
     "formidable": "^1.2.1",
-    "jsonwebtoken": "^8.4.0",
+    "jsonwebtoken": "^9.0.0",
     "mongodb": "^3.1.13",
     "mongoose": "^5.4.17",
     "notp": "^2.0.3",
